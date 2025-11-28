@@ -1,7 +1,7 @@
 # Ex05 Image Carousel
 ## Name: GOKUL SHARAN R
 ## Reg No: 212223040052
-## Date:
+## Date: 09/10/2025
 
 ## AIM
 To create a Image Carousel using React 
